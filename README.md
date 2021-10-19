@@ -1,1 +1,1 @@
-# UTSIoT
+# UTS IoT Semester 3
